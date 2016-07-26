@@ -1,0 +1,7 @@
+F:\winform\Compile\CompileTree\ExpressionConsole\bin\Debug\ExpressionConsole.exe
+F:\winform\Compile\CompileTree\ExpressionConsole\bin\Debug\ExpressionConsole.pdb
+F:\winform\Compile\CompileTree\ExpressionConsole\obj\Debug\ExpressionConsole.csprojResolveAssemblyReference.cache
+F:\winform\Compile\CompileTree\ExpressionConsole\obj\Debug\ExpressionConsole.exe
+F:\winform\Compile\CompileTree\ExpressionConsole\obj\Debug\ExpressionConsole.pdb
+F:\winform\Compile\CompileTree\ExpressionConsole\bin\Debug\CompileUtils.dll
+F:\winform\Compile\CompileTree\ExpressionConsole\bin\Debug\CompileUtils.pdb

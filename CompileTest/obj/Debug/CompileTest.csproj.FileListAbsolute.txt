@@ -1,0 +1,6 @@
+F:\winform\Compile\CompileTree\CompileTest\bin\Debug\CompileTest.dll
+F:\winform\Compile\CompileTree\CompileTest\bin\Debug\CompileTest.pdb
+F:\winform\Compile\CompileTree\CompileTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\winform\Compile\CompileTree\CompileTest\obj\Debug\CompileTest.csprojResolveAssemblyReference.cache
+F:\winform\Compile\CompileTree\CompileTest\obj\Debug\CompileTest.dll
+F:\winform\Compile\CompileTree\CompileTest\obj\Debug\CompileTest.pdb

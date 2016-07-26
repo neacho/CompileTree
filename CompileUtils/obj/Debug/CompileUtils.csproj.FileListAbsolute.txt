@@ -1,0 +1,5 @@
+F:\winform\Compile\CompileTree\CompileUtils\bin\Debug\CompileUtils.dll
+F:\winform\Compile\CompileTree\CompileUtils\bin\Debug\CompileUtils.pdb
+F:\winform\Compile\CompileTree\CompileUtils\obj\Debug\CompileUtils.dll
+F:\winform\Compile\CompileTree\CompileUtils\obj\Debug\CompileUtils.pdb
+F:\winform\Compile\CompileTree\CompileUtils\obj\Debug\CompileUtils.csprojResolveAssemblyReference.cache
